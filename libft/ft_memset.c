@@ -1,3 +1,6 @@
+#include <stddef.h> // ? se puede utilizar para el size_t sino sustituit por unsigned int o unsigned long;
+#include <stdio.h>
+
 void    *ft_memset(void *dest, int value, size_t count)
 {
     //dest es un puntero de valor generico, se convierte a unsigned char con un cast explicito
@@ -26,5 +29,4 @@ int main()
     printf("\n");
 
     return 0;
-}
-*/
+}*/

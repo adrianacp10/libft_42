@@ -25,7 +25,6 @@ int main() {
     printf("Antes de ft_bzero: %s\n", arr);
 
     ft_bzero(arr, 5); // Poner en cero los primeros 5 bytes
-
     // Imprimimos el arr después de ft_bzero
     printf("Después de ft_bzero: ");
     for (int i = 0; i < 10; i++) {
@@ -34,5 +33,4 @@ int main() {
     printf("\n");
 
     return 0;
-}
-*/
+}*/

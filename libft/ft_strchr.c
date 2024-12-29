@@ -35,4 +35,6 @@ int main()
 }
 
 /*La función retorna un puntero a partir del carácter encontrado. 
-Si no se ha encontrado el carácter, c, entonces retorna un puntero null.*/
+Si no se ha encontrado el carácter, c, entonces retorna un puntero null.
+Uso típico: Se usa para cadenas de texto (strings) que están delimitadas por un carácter nulo
+*/

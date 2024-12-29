@@ -15,8 +15,6 @@ void *ft_memchr(const void *s, int value_search, size_t n)
     }
     return (0); //si no encuentra el valor
 }
-
-
 #include <stdio.h>
 
 int main()
